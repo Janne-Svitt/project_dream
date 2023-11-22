@@ -5,7 +5,7 @@ Projekt_dream (tillfälligt)
   Detta forum ska hjälpa kommande klasser att klara utbildningen med hjälpmedel och tips.
 
 Målgruppen för forumet ska primärt vara till helt nya utvecklare som inte har någon bakgrund i ämnet ännu. Uppmuntra till branschen och utbildningen.
-
+```diff
 Features:
   o  Bibliotek med information om programmeringsspråk som är relevant för utbildningen.
   o  Forum för Lia. Där planen är att bjuda in företag så de kan se vilka studenter som letar efter Lia. Eller där företag själva säger att de söker Lia,
@@ -25,4 +25,4 @@ Preliminär To Do List:
   o  Utförandet
   o  DataBas
   o  Ramverk
-  
+  ```
